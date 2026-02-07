@@ -67,3 +67,4 @@ IWER is licensed under the MIT License. For more details, see the [LICENSE](http
 ## Contributing
 
 Your contributions are welcome! Please feel free to submit issues and pull requests. Before contributing, make sure to review our [Contributing Guidelines](https://github.com/meta-quest/immersive-web-emulator/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/meta-quest/immersive-web-emulator/blob/main/CODE_OF_CONDUCT.md).
+Created by Jason Scott Heise
